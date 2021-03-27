@@ -1,0 +1,30 @@
+body{
+    background-image: linear-gradient(to right top, #73e9f4, #47eeea, #10f1d7, #00f3bc, #38f39a, #5ff487, #7df573, #98f55e, #b3f85c, #cbfb5c, #e2fd5f, #f8ff64);
+
+    font-family: 'Akaya Telivigala', cursive;
+
+    font-size: 22px;
+}
+
+#heading{
+    background-color: gold;
+    border-radius: 20px;
+    padding: 15px;
+
+}
+
+#objects{
+    color:darkorchid;
+   font-size: 20px;
+}
+
+hr{
+    width: 30%;
+}
+
+#objectresult,#accuracy{
+    color:darkorchid;
+    font-size: 22px;
+
+}
+
